@@ -8,6 +8,8 @@ The main purpose of this repository is to show the discrepancy in unit tests bet
 Current version of ag grid is 23.2.1 and unit test for cell renderer is failing and the cell renderer is not being rendered in the test environment.
 Downgrade the ag grid to version to 20.2 and the same test is passing.
 
+Branch `ag-grid-version-20.2` has ag-grid version 20.2. Switch between the branches and try running the unit test
+
 ## Project setup
 ```
 npm install
